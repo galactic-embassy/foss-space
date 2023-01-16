@@ -1,0 +1,177 @@
+# Project Information
+site_name: Space Manifesto
+site_url: https://www.manifesto.space/
+site_description: Space Manifesto
+site_author: Galactic Embassy
+
+# Repository
+repo_name: 'GitHub'
+repo_url: https://github.com/galactic-embassy/space-manifesto/
+edit_uri_template: 'docs/{path}'
+
+dev_addr: 127.0.0.1:8888
+
+# Copyright
+copyright: >
+  Copyright &copy; 2023 <a href="https://www.galacticembassy.com">Galactic Embassy</a>. All Rights Reserved.
+
+# hide:
+#   - footer
+
+# Configuration
+theme:
+  name: material
+  custom_dir: 'docs/overrides'
+  locale: en
+  language: en
+  palette:
+    scheme: geoid
+  # palette:
+  #   - scheme: default
+  #     primary: indigo
+  #     accent: indigo
+  #     toggle:
+  #       icon: material/brightness-7
+  #       name: Switch to dark mode
+  #   - scheme: slate
+  #     primary: indigo
+  #     accent: indigo
+  #     toggle:
+  #       icon: material/brightness-4
+  #       name: Switch to light mode
+  # font:
+  #   text: 'Manrope'
+  #   code: 'Roboto Mono'
+  logo: assets/image/logo_light.png
+  favicon: assets/favicon/favicon.ico
+  features:
+    # - announce.dismiss
+    # - content.action.edit
+    # - content.action.view
+    # - content.code.annotate
+    # - content.code.copy
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    # - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - mkdocstrings:
+  #   custom_templates: templates
+      default_handler: python
+      handlers:
+        python:
+          options:
+            # Heading options
+            heading_level: 2
+            show_root_heading: false
+            show_root_toc_entry: false
+            show_root_full_path: false
+            show_root_members_full_path: false
+            show_object_full_path: false
+            show_category_heading: false
+            # Additional options
+            show_bases: true
+            show_source: false
+
+
+
+# Customization
+extra:
+  generator: false
+  analytics:
+    provider: google
+    property: G-6FEJJ20F68
+  social:
+    - icon: fontawesome/solid/globe 
+      link: https://www.geoid.org
+      name: Geoid Website
+    - icon: fontawesome/brands/github 
+      link: https://github.com/geoid-org
+      name: Geoid GitHub
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/company/geoid-org
+      name: Geoid LinkedIn
+    - icon: fontawesome/brands/instagram 
+      link: https://instagram.com/geoid_org
+      name: Geoid Instagram
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/geoid.org
+      name: Geoid Facebook
+  # consent:
+  #   title: Cookie consent
+  #   description: >- 
+  #     We use cookies to recognize your repeated visits and preferences, as well
+  #     as to measure the effectiveness of our documentation and whether users
+  #     find what they're searching for. With your consent, you're helping us to
+  #     make our documentation better.
+extra_css:
+  - assets/style/extra.css
+extra_javascript:
+  - assets/script/extra.js
+extra_templates:
+
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  # - toc:
+  #     permalink: true
+  # - pymdownx.arithmatex:
+  #     generic: true
+  # - pymdownx.betterem:
+  #     smart_enable: all
+  # - pymdownx.caret
+  # - pymdownx.details
+  # - pymdownx.emoji:
+  #     emoji_generator: !!python/name:materialx.emoji.to_svg
+  #     emoji_index: !!python/name:materialx.emoji.twemoji
+  # - pymdownx.highlight:
+  #     anchor_linenums: true
+  # - pymdownx.inlinehilite
+  # - pymdownx.keys
+  # - pymdownx.magiclink:
+  #     repo_url_shorthand: true
+  #     user: squidfunk
+  #     repo: mkdocs-material
+  # - pymdownx.mark
+  # - pymdownx.smartsymbols
+  # - pymdownx.superfences:
+  #     custom_fences:
+  #       - name: mermaid
+  #         class: mermaid
+  #         format: !!python/name:pymdownx.superfences.fence_code_format
+  # - pymdownx.tabbed:
+  #     alternate_style: true
+  # - pymdownx.tasklist:
+  #     custom_checkbox: true
+  # - pymdownx.tilde
+
+
+# Page tree
+nav:
+  - Introduction:
+    - 'index.md'

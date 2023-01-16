@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Space Manifesto
+version: 0.0.1
+date-released: 2023-01-01
+url: "https://github.com/galactic-embassy/space-manifesto"
+message: >-
+  If you use the Space Manifesto, please cite it using
+  the metadata from this file.
+type: software
+authors:
+  - given-names: Lars Bastiaan
+    family-names: van Vianen
+    email: lars@scape.agency
+    affiliation: Scape Agency
+    orcid: 'https://orcid.org/0000-0002-8790-8630'

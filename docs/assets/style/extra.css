@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+@font-face {
+    font-family: "Manrope";
+    src: "fonts/manrope/manrope-regular.woff2";
+}
+:root {
+    --md-text-font: "Manrope"; 
+}
+.md-footer__inner {
+    display: none;
+}
+[data-md-color-scheme="geoid"] {
+    --md-primary-fg-color:        rgb(35, 20, 60);
+    --md-primary-fg-color--light: #ffffff;
+    --md-primary-fg-color--dark:  #001025;
+}
