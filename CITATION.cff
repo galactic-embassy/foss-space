@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-title: Space Manifesto
+title: FOSS Space
 version: 0.0.1
 date-released: 2023-01-01
-url: "https://github.com/galactic-embassy/space-manifesto"
+url: "https://github.com/galactic-embassy/foss-space"
 message: >-
-  If you use the Space Manifesto, please cite it using
+  If you use FOSS Space, please cite it using
   the metadata from this file.
 type: software
 authors:
