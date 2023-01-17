@@ -41,6 +41,7 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
+- [Directory](#directory)
 - [Authors](#authors)
 - [Contributing](#contributing)
 - [License](#license)
@@ -53,7 +54,17 @@
 
 ## About
 
+**FOSS Space** is a directory of free and open space technology projects curated by the [Galactic Embassy](https://www.galacticembassy.com/).
+
+
+---
+
+## Directory
+
 ...
+
+
+---
 
 
 ## Authors
@@ -69,7 +80,7 @@ Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for infor
 
 ## License
 
-Except where otherwise noted, the **FOSS Space** is licensed under the terms of the [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0// "Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"). To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication") or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
+Except where otherwise noted, the **FOSS Space** is licensed under the terms of the [Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"). To view a copy of this license, visit [https://creativecommons.org/publicdomain/zero/1.0//](https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication") or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
 
 
 ## Disclaimer
