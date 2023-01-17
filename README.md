@@ -22,11 +22,7 @@
 
   [![license](https://img.shields.io/github/license/galactic-embassy/foss-space?color=green&label=license&style=flat)](LICENSE.md)
   [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat&up_color=green&up_message=online&url=https%3A%2F%2Fwww.geoid.org)](https://www.geoid.org)
-
-  ![python](https://img.shields.io/pypi/pyversions/foss-space?color=blue&label=python&style=flat)
   ![stars](https://img.shields.io/github/stars/galactic-embassy/foss-space?color=blue&label=stars&style=flat)
-  ![forks](https://img.shields.io/github/forks/galactic-embassy/foss-space?color=blue&label=forks&style=flat)
-  ![downloads](https://img.shields.io/github/downloads/galactic-embassy/foss-space/total?color=blue&label=downloads&style=flat)
   ![sponsors](https://img.shields.io/github/sponsors/starling-cloud?color=blue&label=sponsors&style=flat)
   ![contributors](https://img.shields.io/github/contributors/galactic-embassy/foss-space?color=blue&label=contributors&style=flat)
 
