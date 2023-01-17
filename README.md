@@ -2,7 +2,7 @@
 <p align="center">
     <img src=".github/images/galactic_embassy_logo_light.png" width="20%" height="20%" alt="Galactic Embassy Logo">
 </p>
-<h1 align='center' style='border-bottom: none;'>Space Manifesto</h1>
+<h1 align='center' style='border-bottom: none;'>FOSS Space</h1>
 <h3 align='center'>Galactic Embassy</h3>
 </header>
 <br/>
@@ -55,8 +55,6 @@
 
 ...
 
-https://www.zotero.org/groups/4602256/galactic
-
 
 ## Authors
 
@@ -65,7 +63,7 @@ The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the
 
 ## Contributing
 
-We'd love for you to contribute and to make **Space Manifesto** even better than it is today!
+We'd love for you to contribute and to make **FOSS Space** even better than it is today!
 Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
 
