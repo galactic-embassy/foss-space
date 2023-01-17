@@ -7,28 +7,28 @@
 </header>
 <br/>
 <div align="center">
-  <a href="https://github.com/galactic-embassy/space-manifesto/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
+  <a href="https://github.com/galactic-embassy/foss-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
   |
-  <a href="https://github.com/galactic-embassy/space-manifesto/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
+  <a href="https://github.com/galactic-embassy/foss-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
   |
-  <a href="https://github.com/galactic-embassy/space-manifesto/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
+  <a href="https://github.com/galactic-embassy/foss-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
   |
-  <a href="https://github.com/galactic-embassy/space-manifesto/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
+  <a href="https://github.com/galactic-embassy/foss-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
   |
-  <a href="https://github.com/galactic-embassy/space-manifesto/discussions">Start a Discussion</a>
+  <a href="https://github.com/galactic-embassy/foss-space/discussions">Start a Discussion</a>
 </div>
 <br/>
 <div align="center">
 
-  [![license](https://img.shields.io/github/license/galactic-embassy/space-manifesto?color=green&label=license&style=flat)](LICENSE.md)
+  [![license](https://img.shields.io/github/license/galactic-embassy/foss-space?color=green&label=license&style=flat)](LICENSE.md)
   [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat&up_color=green&up_message=online&url=https%3A%2F%2Fwww.geoid.org)](https://www.geoid.org)
 
-  ![python](https://img.shields.io/pypi/pyversions/space-manifesto?color=blue&label=python&style=flat)
-  ![stars](https://img.shields.io/github/stars/galactic-embassy/space-manifesto?color=blue&label=stars&style=flat)
-  ![forks](https://img.shields.io/github/forks/galactic-embassy/space-manifesto?color=blue&label=forks&style=flat)
-  ![downloads](https://img.shields.io/github/downloads/galactic-embassy/space-manifesto/total?color=blue&label=downloads&style=flat)
+  ![python](https://img.shields.io/pypi/pyversions/foss-space?color=blue&label=python&style=flat)
+  ![stars](https://img.shields.io/github/stars/galactic-embassy/foss-space?color=blue&label=stars&style=flat)
+  ![forks](https://img.shields.io/github/forks/galactic-embassy/foss-space?color=blue&label=forks&style=flat)
+  ![downloads](https://img.shields.io/github/downloads/galactic-embassy/foss-space/total?color=blue&label=downloads&style=flat)
   ![sponsors](https://img.shields.io/github/sponsors/starling-cloud?color=blue&label=sponsors&style=flat)
-  ![contributors](https://img.shields.io/github/contributors/galactic-embassy/space-manifesto?color=blue&label=contributors&style=flat)
+  ![contributors](https://img.shields.io/github/contributors/galactic-embassy/foss-space?color=blue&label=contributors&style=flat)
 
 </div>
 
