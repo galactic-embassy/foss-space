@@ -1,12 +1,12 @@
 # Project Information
-site_name: Space Manifesto
-site_url: https://www.manifesto.space/
-site_description: Space Manifesto
+site_name: FOSS Space
+site_url: https://www.fossspace.com/
+site_description: FOSS Space
 site_author: Galactic Embassy
 
 # Repository
 repo_name: 'GitHub'
-repo_url: https://github.com/galactic-embassy/space-manifesto/
+repo_url: https://github.com/galactic-embassy/foss-space/
 edit_uri_template: 'docs/{path}'
 
 dev_addr: 127.0.0.1:8888
@@ -25,7 +25,7 @@ theme:
   locale: en
   language: en
   palette:
-    scheme: geoid
+    scheme: galacticembassy
   # palette:
   #   - scheme: default
   #     primary: indigo
@@ -97,25 +97,23 @@ plugins:
 # Customization
 extra:
   generator: false
-  analytics:
-    provider: google
-    property: G-6FEJJ20F68
+  # analytics:
+  #   provider: google
+  #   property: G-6FEJJ20F68
   social:
     - icon: fontawesome/solid/globe 
-      link: https://www.geoid.org
-      name: Geoid Website
+      link: https://www.galacticembassy.com
+      name: Galactic Embassy Website
     - icon: fontawesome/brands/github 
-      link: https://github.com/geoid-org
-      name: Geoid GitHub
+      link: https://github.com/galactic-embassy
+      name: Galactic Embassy GitHub
     - icon: fontawesome/brands/linkedin 
-      link: https://www.linkedin.com/company/geoid-org
-      name: Geoid LinkedIn
+      link: linkedin.com/company/galacticembassy
+      name: Galactic Embassy LinkedIn
     - icon: fontawesome/brands/instagram 
-      link: https://instagram.com/geoid_org
-      name: Geoid Instagram
-    - icon: fontawesome/brands/facebook 
-      link: https://www.facebook.com/geoid.org
-      name: Geoid Facebook
+      link: https://instagram.com/galactic.embassy
+      name: Galactic Embassy Instagram
+
   # consent:
   #   title: Cookie consent
   #   description: >- 
