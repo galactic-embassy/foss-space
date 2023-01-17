@@ -54,7 +54,7 @@
 
 ## About
 
-**FOSS Space** is a directory of free and open space technology projects curated by the [Galactic Embassy](https://www.galacticembassy.com/).
+**FOSS Space** is a directory of free and open source space technology projects curated by the **[Galactic Embassy](https://www.galacticembassy.com/ "Galactic Embassy website")** and **[Geoid](https://www.geoid.org "Geoid website")**.
 
 
 ---
