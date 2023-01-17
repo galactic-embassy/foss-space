@@ -1,10 +1,11 @@
 <header>
 <p align="center">
-    <img src="https://github.com/galactic-embassy/.assets/blob/2566cd50b117b95bfe269e82d642f84649dd4b6f/logo/galactic_embassy_logo_light.png" width="20%" height="20%" alt="Galactic Embassy Logo">
+    <img src="https://github.com/galactic-embassy/.assets/blob/086008d75557f9ce29e2a46dfdbcc3912b6443ce/logo/galactic_embassy_logo_light.png" width="20%" height="20%" alt="Galactic Embassy Logo">
 </p>
 <h1 align='center' style='border-bottom: none;'>FOSS Space</h1>
 <h3 align='center'>Galactic Embassy</h3>
 </header>
+
 <br/>
 <div align="center">
   <a href="https://github.com/galactic-embassy/foss-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
