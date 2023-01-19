@@ -5,4 +5,4 @@ User-agent: *
 Disallow:
 
 
-SITEMAP: http://www.manifesto.space/sitemap.xml
+SITEMAP: http://www.fossspace.com/sitemap.xml

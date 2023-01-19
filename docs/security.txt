@@ -1,5 +1,5 @@
 # Canonical
-Canonical: https://www.manifesto.space/security.txt
+Canonical: https://www.fossspace.com/security.txt
 
 # Contact
 Contact: mailto:info@galacticembassy.com
