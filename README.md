@@ -4,11 +4,13 @@
 <h1 align='center' style='border-bottom: none;'>FOSS Space</h1>
 <h3 align='center'>Galactic Embassy</h3>
 <br/>
+
+<p align="center">
+    <img src="https://galactic-embassy.github.io/.assets/image/galactic_embassy-launch-01.png" width="100%" height="100%" alt="Galactic Embassy Launch Banner">
+</p>
+
+
 <div align="center">
-  <a href="https://github.com/galactic-embassy/foss-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
-  |
-  <a href="https://github.com/galactic-embassy/foss-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
-  |
   <a href="https://github.com/galactic-embassy/foss-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
   |
   <a href="https://github.com/galactic-embassy/foss-space/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
@@ -21,7 +23,6 @@
   [![license](https://img.shields.io/github/license/galactic-embassy/foss-space?color=green&label=license&style=flat)](LICENSE.md)
   [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat&up_color=green&up_message=online&url=https%3A%2F%2Fwww.fossspace.com)](https://www.fossspace.com)
   ![stars](https://img.shields.io/github/stars/galactic-embassy/foss-space?color=blue&label=stars&style=flat)
-  ![sponsors](https://img.shields.io/github/sponsors/galactic-embassy?color=blue&label=sponsors&style=flat)
   ![contributors](https://img.shields.io/github/contributors/galactic-embassy/foss-space?color=blue&label=contributors&style=flat)
 
 </div>
