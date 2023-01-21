@@ -97,9 +97,9 @@ plugins:
 # Customization
 extra:
   generator: false
-  # analytics:
-  #   provider: google
-  #   property: G-6FEJJ20F68
+  analytics:
+    provider: google
+    property: G-T75MBXNZ1X
   social:
     - icon: fontawesome/solid/globe 
       link: https://www.galacticembassy.com
