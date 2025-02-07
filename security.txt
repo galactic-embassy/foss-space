@@ -1,0 +1,8 @@
+# Canonical
+Canonical: https://www.fossspace.com/security.txt
+
+# Contact
+Contact: mailto:info@galacticembassy.com
+
+# Preferred-Languages
+Preferred-Languages: en
